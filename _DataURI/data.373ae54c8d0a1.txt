@@ -1,1 +1,0 @@
-chrome-extension://jeoacafpbcihiomhlakheieifhpjdfeo/scripts/vendor/jquery/jquery.js

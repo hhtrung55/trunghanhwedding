@@ -1,1 +1,0 @@
-chrome-extension://jeoacafpbcihiomhlakheieifhpjdfeo/scripts/vendor/sitename/tldpatch.js

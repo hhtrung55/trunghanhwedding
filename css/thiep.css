@@ -1,0 +1,21 @@
+
+body {
+    background-color: antiquewhite;
+}
+
+.map {
+    font-size: 40px;
+    color: red;
+    margin: 20px 10px;
+}
+
+.thiep {
+    text-align: center;
+}
+div {
+    padding: 10px;
+}
+
+.home {
+    font-size: 30px;
+}
